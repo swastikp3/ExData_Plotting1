@@ -1,3 +1,12 @@
+## ###########################################################
+## Assignment: Exploratory Data Analysis 
+##            SWASTIK PATEL 
+##    Peer-graded Assignment: Course Project 1
+
+# 1. README.md
+
+## ###########################################################
+
 ## Introduction
 
 This assignment uses data from
